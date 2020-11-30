@@ -1,0 +1,13 @@
+.Question{
+  
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.Question input{
+
+font-family: 'Roboto', sans-serif;
+
+}
